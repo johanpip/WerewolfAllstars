@@ -1,0 +1,6 @@
+Retri now revives any player (not just Town).
+Wrote tiebreaker rule on the role sheet.
+Clarified Masons.
+Tracker now can't see someone visit multiple targets.
+Wolfsbane Merchant slightly buffed.
+Wakeup order changed slightly.

@@ -1,0 +1,109 @@
+Pass roles out so you know which role each player has. Notetaking is a good idea.
+Note that you should still wake the drunk and pretent that their power works, but it should not change the game state.
+
+EACH NIGHT, wake the players with the following roles (in order). Do not wake any dead players (including those that died tonight).
+
+A:
+Escort - If they point to a player, that person's power doesn't work tonight. You should still wake the chosen player and pretend that it works, but their power should not change the game state. Remember to take into account if the escort is drunk.
+
+B:
+Vampires - All vampires wake and bite a player. If the player is evil/werewolf, mark them as dead (unless they're immune).
+
+B2:
+If the vampire target was escort, treat them as though they didn't visit.
+If the chosen player is not evil/werewolf, wake them now (with the other vampires), point to them and show them "Vampire" on the role sheet. Do not wake them when their role would otherwise wake.
+
+C:
+Tracker - If they point to a player, remember who that player visits. You will wake the Tracker later to pass them that info. Remember to take into account if the tracker is drunk/seduced.
+
+D:
+Arsonist - If they point to a player, mark that player as doused. If they point to themselves, mark all doused players as dead.
+
+E:
+Guardian Angel - Wake them (point to their target on the first night). They will indicate whether they are going to protect or not. If not, show "yes/no?" with alternating thumbs up thumbs down motion.
+
+F:
+Bodyguard - If they point at a player, remember that the chosen player cannot be killed tonight. Remember that they cannot point to the same player twice in a row. They may point at themselves. Remember to take into account if the bodyguard is drunk.
+
+G:
+Cursed - Show them what team they are on using a Villager/Werewolf card.  Remember to take into account if the escort is drunk. If they are the drunk, you could do a fake-out and tell them they are a werewolf, then wake them as "the only werewolf".
+
+H:
+Werewolves - Wake all werewolves. They select a target. If that target is protected by the bodyguard, forget about them. Otherwise, mark them as dead.
+
+I:
+Ritual Wolf - If they do not immediately point to a player or shake their head, indicate pointing and they will most likely shake their head. If they choose to guess, have them point to a player and then a role (on their own character list). Mark down who of them should die.
+
+J:
+HypnoWolf - Remember who was hypno'd. Remember to still wake the hypno'd player.
+
+K:
+Framer Wolf - Remember who was framed.
+
+L:
+Undertaker - Remember who was executed? Show the undertaker their role (using your role card). Remember to take into account whether the undertaker is drunk/seduced/hypno'd.
+
+M:
+Empath - Tell them how many of their *living* neighbors are Evil/Werewolf. Remember that this should "go through" dead players. Remember to take into account whether their living neighbors are framed and wheter the empath is drunk/seduced/hypno'd.
+
+N:
+Seer - Tell them if their target is Werewolf or not. Remember to take into account whether their target was framed or the seer is drunk/seduced/hypno'd.
+
+O:
+Sheriff - Tell them if their target is Evil/Werewolf or not. Remember to take into account whether the target was framed or the sheriff is drunk/seduced/hypno'd.
+
+P:
+Retributionist - If they pick a player, remove the death mark from that player if the retributionist's power works AND the chosen player registers as good (including Wolf Man). If the target is a recluse, the choice is yours. Remember to take into account if the retributionist is drunk/seduced/hypno'd (in which case the target is never revived).
+
+Q:
+Spellcaster Wolf - Target is silenced until the spellcaster wolf dies.
+
+Q2: After putting spellcaster wolf to sleep, wake the target and "shush" them silently.
+
+Q3: If the spellcaster wolf just died, wake each "permanently muted" player (one at a time) and "shush" them silently, then shake your head to show that they are no longer silenced.
+
+R:
+Tracker (again) - Show the tracker who their target visited. If you forgot, don't worry. Put the tracker back to sleep and wake the tracker's target, indicating silently to show you who they picked (e.g. via showing a written note). If the tracker's target did not visit anyone, wake the tracker and shake your head. Remember to take into account if the tracker is drunk/seduced/hypno'd.
+
+S:
+Amnesiac - Wake them. If they point to a dead player, make a mental note of this. They become that role.
+
+T:
+Insomniac - This is a hard one to remember. Do as follows:
+1) Find who are marked as dead, and who are the insomniac's living neighbors.
+2) Make sure the living neighbors are the right ones.
+3) Remember who they visited (or wake them to confirm - while insomniac is asleep).
+4) Indicate "0", "1" or "2" with your hand depending on the number of living neighbors that visited. Remember to take into account whether the insomniac is drunk/seduced/hypno'd.
+
+
+U:
+On the first night, also wake the following players (in any order):
+1) Masons - Do not wake them together. Wake them one at a time and point to the other Mason (if any). If one of them is drunk, the real mason sees "no masons" (as there is no other mason), and the drunk sees whatever you decide.
+2) Grandmother - Indicate their grandson player. Remember that the player you indicate *must* be actually town unless the grandmother is drunk/seduced/hypno'd. You *can* indicate a framed player as the grandson (if they are actually town).
+3) Psychic Wolf - Show them three roles not in the game. Usually most of these should be town roles.
+4) Psychic - Indicate on your character list one role that *is* in the game. Remember that this cannot be "who the drunk thinks they are", as that role is not actually in the game. This can be broken if the psychic is drunk/seduced/hypno'd.
+
+
+
+EACH DAY:
+Let the town know whether any of the following happened tonight:
+- Who was protected by the Guardian Angel (not who the Guardian Angel is)
+- If "the amnesiac remembered that they were a [role]" (not who the Amnesiac is/was)
+
+
+
+During the day, let players speak in the circle and in private. You may require everyone to stay in the room (unless they "go to church").
+Players may request to "go to church" to ask you a question in private. Clarify whatever they ask, but don't reveal any info they should not have (a good starting point is to reply "yes, it could happen that way", etc.)
+
+Nominations:
+Usually I let players nominate at any time, but that is up to you.
+At some point during the day, if no player has nominated, let players know that "nominations are open". If no nominations arise, count down slowly from 10.
+
+A player X nominates another player Y if they say "I nominate Y" (or otherwise indicate it). Player X gets to explain why they nominated player Y, then player Y gets a defense speech. Other players are encouraged to be silent here, but if you deem it relevant, you may let them speak. As long as player X and Y get to say what they want.
+After the defense, stand in the middle of the circle and extend your arm towards the nominated player (Y). Slowly rotate clockwise, counting aloud any raised hands (when your hand "passes over" that player. Votes only count as your hand "passes over" voters.
+Player Y votes last.
+
+N/2 votes are needed for Y to be on the chopping block, where N is the number of living players. (They are off the chopping block again if another player gets more votes later).
+The day continues until no more nominations are made.
+If one player has the most votes, they are lynched and the day ends immediately (without their role being revealed).
+If multiple players are tied for most votes, noone dies and the day ends.

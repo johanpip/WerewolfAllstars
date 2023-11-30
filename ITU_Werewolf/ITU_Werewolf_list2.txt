@@ -1,0 +1,46 @@
+LINKMULTI = ENABLED
+LINK = "data.csv"
+
+FONT=The Greatest Font,25,FT,#000000
+HEADER="","Werewolf Allstars 2.4.1                                                                                                         Design by Simon Breum", CENTER
+FOOTER="","There are no nominations when 2 players are left. If neither player can kill the other, the game is a tie.", CENTER
+
+cards = "1-{(ROLENAME)}
+[ROLENAME] = casestring([ROLENAME], "U")
+[COUNTMAX] = JOIN("0-", [COUNT])
+[TYPELINE] = JOIN("Alignment: ", [ALIGNMENT], "    Type: ",[ROLETYPE])
+[IMAGEPATHS] = JOIN("img/", [IMAGE])
+PAGE=21,29.7,PORTRAIT,,#FFFFFF,,#000000,0,0,0,0
+GAP=0,0
+unit=cm
+;CARDSIZE=9.2,3.16
+CARDSIZE=6.32,2.76
+
+VISUAL=S, 10, 10
+;Image(size)
+IMAGE=,img/texture.jpg,0%,0%,100%,100%,0,,25
+;Image(size)
+IMAGE="1-{(IMAGEPATHS)}",[IMAGEPATHS],1%,{1300/131}%,10%,80%,0,P,35
+;Font(size)
+FONT=The Greatest Font,25,FT,#000000
+;Text(size)
+TEXT="1-{(ROLENAME)}",[ROLENAME],17%,{300/131}%,80%,20%,CENTER,WWCENTER
+;Font(size)
+FONT=The Greatest Font,5,FT,#000000
+;Text(size)
+TEXT=,"Design by Simon Breum",3%,{3250/131}%,90%,0%,RIGHT,WWCENTER
+;Rectangle(size)
+RECTANGLE=,15%,{2750/131}%,80%,0.5%,#361B1B,#361B1B,0
+;Font(size)
+FONT=Franklin Gothic Medium,8,FTN,[COLOR]
+;Text(size)
+TEXT="1-{(TYPELINE)}",[TYPELINE],15%,{2400/131}%,70%,20%,LEFT,CENTER,0
+;Text(size)
+TEXT="1-{(COUNTMAX)}",[COUNTMAX],75%,{2400/131}%,20%,20%,RIGHT,CENTER,0
+;Rectangle(size)
+RECTANGLE=,15%,{4700/131}%,80%,0.5%,#361B1B,#361B1B,0
+;Font(size)
+FONT=Franklin Gothic Medium,8,FTN,#000000
+;Text(size)
+TEXT="1-{(ABILITIES)}",[ABILITIES],15%,{4700/131}%,80%,60%,LEFT,WWTOP,0
+ENDVISUAL
