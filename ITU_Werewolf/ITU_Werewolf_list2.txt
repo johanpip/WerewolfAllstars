@@ -2,7 +2,7 @@ LINKMULTI = ENABLED
 LINK = "data.csv"
 
 FONT=The Greatest Font,25,FT,#000000
-HEADER="","Werewolf Allstars 2.4.1                                                                                                         Design by Simon Breum", CENTER
+HEADER="","Werewolf Allstars 2.4.2                                                                                                         Design by Simon Breum", CENTER
 FOOTER="","There are no nominations when 2 players are left. If neither player can kill the other, the game is a tie.", CENTER
 
 cards = "1-{(ROLENAME)}
