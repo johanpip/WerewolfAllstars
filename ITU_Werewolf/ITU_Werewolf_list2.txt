@@ -2,8 +2,8 @@ LINKMULTI = ENABLED
 LINK = "data.csv"
 
 FONT=The Greatest Font,25,FT,#000000
-HEADER="","Werewolf Allstars 2.4.2                                                                                                         Design by Simon Breum", CENTER
-FOOTER="","There are no nominations when 2 players are left. If neither player can kill the other, the game is a tie.", CENTER
+HEADER="","Werewolf Allstars 2.5.0                                                                                                         Design by Simon Breum", CENTER
+FOOTER="","No nominations when 2 players are left. If neither player can kill the other, the game is a tie between their teams.", CENTER
 
 cards = "1-{(ROLENAME)}
 [ROLENAME] = casestring([ROLENAME], "U")
