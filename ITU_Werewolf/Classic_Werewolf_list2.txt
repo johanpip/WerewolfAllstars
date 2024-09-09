@@ -2,13 +2,14 @@ LINKMULTI = ENABLED
 LINK = "data_classic.csv"
 
 FONT=The Greatest Font,25,FT,#000000
-HEADER="","Werewolf Allstars 2.5.0                                                                                                         Design by Simon Breum", CENTER
+HEADER="","Werewolf Role Sheet                                                                                                         Design by Simon Breum", CENTER
 FOOTER="","No nominations when 2 players are left. If neither player can kill the other, the game is a tie between their teams.", CENTER
 
 cards = "1-{(ROLENAME)}
 [ROLENAME] = casestring([ROLENAME], "U")
 [COUNTMAX] = JOIN("0-", [COUNT])
-[TYPELINE] = JOIN("Alignment: ", [ALIGNMENT], "    Type: ",[ROLETYPE])
+[TYPELINE] = JOIN("Alignment: ", [ALIGNMENT])
+;, "    Type: ",[ROLETYPE])
 [IMAGEPATHS] = JOIN("img/", [IMAGE])
 PAGE=21,29.7,PORTRAIT,,#FFFFFF,,#000000,0,0,0,0
 GAP=0,0
