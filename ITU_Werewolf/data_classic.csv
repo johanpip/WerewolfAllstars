@@ -2,11 +2,11 @@ Enabled,Count,RoleName,Alignment,Color,RoleType,Image,Abilities
 
 1,10,Villager,Town,#00AA00,"",village.png,"You have no special abilities. Use social cues to find and execute the Werewolves!"
 1,2,Twin,Town,#00AA00,"",Twins.png,"On the first night, wake with your other twin. There might be only one twin"
-1,1,Bodyguard,Town,#00AA00,"",edged-shield.png,"Each night, pick a player (yourself allowed). They cannot die tonight. You may not pick the same player twice in a row."
 1,1,Blessed,Town,#00AA00,"",holy-water.png,"The first time you would die, instead don't. If the prevented death was due to an execution, the day still ends."
 1,1,Hunter,Town,#00AA00,"",crossbow.png,"When you die, you may reveal your role to shoot a player. They also die."
 1,1,Psychic,Town,#00AA00,"",psychic-waves.png,"First night, you are shown a role that some player has."
 1,1,Skryer,Town,#00AA00,"",mirror.png,"First night, you are shown whether your closest wolf player is clockwise or anti-clockwise. If equidistant, you can be told either."
+1,1,Bodyguard,Town,#00AA00,"",edged-shield.png,"Each night, pick a player (yourself allowed). They cannot die tonight. You may not pick the same player twice in a row."
 1,1,Seer,Town,#00AA00,"",crystal-ball2.png,"Each night, pick a player to know whether they register as a Werewolf (W with hands) or not (X with arms)."
 1,1,Apprentice Seer,Town,#00AA00,"",crystal-ball2.png,"Each night, if there is no living Seer, pick a player to know whether they register as a Werewolf (W with hands) or not (X with arms)."
 1,1,Mayor,Town,#00AA00,"",public-speaker.png,"You may reveal at any time during the day. After revealing, your future votes count as 3, but you can no longer be protected or healed."
