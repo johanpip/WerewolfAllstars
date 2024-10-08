@@ -6,7 +6,7 @@ Enabled,Count,RoleName,Alignment,Color,RoleType,Image,Abilities
 1,1,Hunter,Town,#00AA00,"",crossbow.png,"When you die, you may reveal your role to shoot a player. They also die."
 1,1,Psychic,Town,#00AA00,"",psychic-waves.png,"First night, you are shown a role that some player has."
 1,1,Scryer,Town,#00AA00,"",mirror.png,"First night, you are shown whether your closest wolf player is clockwise or anti-clockwise. If equidistant, you can be told either."
-1,1,Bodyguard,Town,#00AA00,"",edged-shield.png,"Each night, pick a player (yourself allowed). They cannot die tonight. You may not pick the same player twice in a row."
+1,1,Bodyguard,Town,#00AA00,"",edged-shield.png,"Each night*, pick a player (yourself allowed). They cannot die tonight. You may not pick the same player twice in a row."
 1,1,Child,Town,#00AA00,"",spiral-lollipop.png,"Each night, you can choose to pick an alive player to hide at their place. Any power used on you that night won't work (as if drunk). If the person you stay at gets killed or poisoned, you will as well. If the person you picked is a wolf, they'll wake up and get the option to kill you that night."
 1,1,Seer,Town,#00AA00,"",crystal-ball2.png,"Each night, pick a player to know whether they register as a Werewolf (W with hands) or not (X with arms)."
 1,1,Apprentice Seer,Town,#00AA00,"",crystal-ball2.png,"Each night, if there is no living Seer, pick a player to know whether they register as a Werewolf (W with hands) or not (X with arms)."

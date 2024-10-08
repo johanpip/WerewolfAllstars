@@ -3,7 +3,7 @@ LINK = "data.csv"
 
 FONT=The Greatest Font,25,FT,#000000
 HEADER="","Werewolf Allstars 2.6.0                                                                                                         Design by Simon Breum", CENTER
-FOOTER="","No nominations when 2 players are left. If neither player can kill the other, the game is a tie between their teams.", CENTER
+FOOTER="","(*)Not first night. No nominations when 2 players are left.", CENTER
 
 cards = "1-{(ROLENAME)}
 [ROLENAME] = casestring([ROLENAME], "U")
